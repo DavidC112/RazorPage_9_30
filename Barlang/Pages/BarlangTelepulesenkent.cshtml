@@ -1,0 +1,34 @@
+﻿@page
+@model Barlang.Pages.BarlangTelepulesenkentModel
+
+@{
+    ViewData["Title"] = "BarlangTelepulesenkent";
+}
+
+<h1>BarlangTelepulesenkent</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Telepules)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Barlang) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telepules)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Darab)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

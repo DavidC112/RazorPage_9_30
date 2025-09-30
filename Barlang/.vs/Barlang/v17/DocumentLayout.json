@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\szures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:pages\\szures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\barlangtelepulesenkent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:pages\\barlangtelepulesenkent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\barlangtelepulesenkent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:pages\\barlangtelepulesenkent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\dtos\\barlangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:dtos\\barlangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\szures.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\pages\\szures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:pages\\szures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,50 +90,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarlangDTO.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\DTOs\\BarlangDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BarlangDTO.cs",
+              "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\DTOs\\BarlangDTO.cs",
+              "RelativeToolTip": "DTOs\\BarlangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:30.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BarlangTelepulesenkent.cshtml.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\BarlangTelepulesenkent.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\BarlangTelepulesenkent.cshtml.cs",
+              "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\BarlangTelepulesenkent.cshtml.cs",
+              "RelativeToolTip": "Pages\\BarlangTelepulesenkent.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:02:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarlangTelepulesenkent.cshtml",
+              "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\BarlangTelepulesenkent.cshtml",
+              "RelativeDocumentMoniker": "Pages\\BarlangTelepulesenkent.cshtml",
+              "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\BarlangTelepulesenkent.cshtml",
+              "RelativeToolTip": "Pages\\BarlangTelepulesenkent.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:02:03.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Szures.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Szures.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Szures.cshtml.cs",
               "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Szures.cshtml.cs",
               "RelativeToolTip": "Pages\\Szures.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T06:39:32.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Szures.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Szures.cshtml",
               "RelativeDocumentMoniker": "Pages\\Szures.cshtml",
               "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Szures.cshtml",
               "RelativeToolTip": "Pages\\Szures.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-30T06:39:32.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-30T06:35:05.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
@@ -129,12 +180,11 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:30:20.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:30:20.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -146,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Delete.cshtml.cs",
@@ -158,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
@@ -170,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
@@ -182,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Details.cshtml",
@@ -194,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
@@ -206,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
@@ -218,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Create.cshtml.cs",
@@ -230,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Pages\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Create.cshtml",
@@ -242,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -250,12 +300,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:21:59.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:21:59.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "BarlangDbContext.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Data\\BarlangDbContext.cs",
               "RelativeDocumentMoniker": "Data\\BarlangDbContext.cs",
@@ -267,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Barlang.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Models\\Barlang.cs",
               "RelativeDocumentMoniker": "Models\\Barlang.cs",
@@ -275,12 +324,11 @@
               "RelativeToolTip": "Models\\Barlang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:04:26.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:04:26.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "Barlang.csproj",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Barlang.csproj",
               "RelativeDocumentMoniker": "Barlang.csproj",
@@ -288,7 +336,8 @@
               "RelativeToolTip": "Barlang.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-30T06:03:30.597Z"
+              "WhenOpened": "2025-09-30T06:03:30.597Z",
+              "EditorCaption": ""
             }
           ]
         }
