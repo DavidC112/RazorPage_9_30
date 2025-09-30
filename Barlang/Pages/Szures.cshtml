@@ -1,0 +1,70 @@
+﻿@page
+@model Barlang.Pages.SzuresModel
+
+@{
+    ViewData["Title"] = "Szures";
+}
+
+<h1>Szures</h1>
+
+<form method="get">
+    <select asp-for="@Model.KivalasztottBarlang">
+        <option value="Pécs">1. Pécs</option>
+        <option value="Ózd">2. Ózd</option>
+    </select>
+    <input type="submit" name="name" value="Szűrés" class="btn btn-primary" />
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Nev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Hossz)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Kiterjedes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Melyseg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Magassag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlang[0].Telepules)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Barlang) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nev)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hossz)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kiterjedes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Melyseg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Magassag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telepules)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
