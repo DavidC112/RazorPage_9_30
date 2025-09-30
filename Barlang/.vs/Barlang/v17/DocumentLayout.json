@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|c:\\david\\code\\13\\.net web app\\razorpage_9_30\\barlang\\barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3DE80DDD-E085-4F63-A3D2-1C478B12857B}|Barlang.csproj|solutionrelative:barlang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:21:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarlangDbContext.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Data\\BarlangDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BarlangDbContext.cs",
+              "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Data\\BarlangDbContext.cs",
+              "RelativeToolTip": "Data\\BarlangDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:13:10.828Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,23 +62,22 @@
               "RelativeDocumentMoniker": "Models\\Barlang.cs",
               "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Models\\Barlang.cs",
               "RelativeToolTip": "Models\\Barlang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T06:04:26.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Barlang",
+              "DocumentIndex": 3,
+              "Title": "Barlang.csproj",
               "DocumentMoniker": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Barlang.csproj",
               "RelativeDocumentMoniker": "Barlang.csproj",
               "ToolTip": "C:\\David\\Code\\13\\.NET web app\\RazorPage_9_30\\Barlang\\Barlang.csproj",
               "RelativeToolTip": "Barlang.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-30T06:03:30.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:03:30.597Z"
             }
           ]
         }
